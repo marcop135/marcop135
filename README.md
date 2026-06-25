@@ -1,6 +1,6 @@
-# Hi, I'm Marco 🤖🎨⚡
+# Hi, I'm Marco 🤖🎨✨
 
-> Web & Digital Developer based in Munich, Germany. 15 years building and delivering web products across Europe. Open-sourcing the small tools I reuse.
+> Web & Digital Developer based in Munich, Germany, building clean, user-centered digital products that drive results. I open-source the tools I build along the way.
 
 ## Open source
 
@@ -8,7 +8,7 @@
 - **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - DTCG tokens compiled to CSS custom properties, reusable components, and a [live Next.js preview](https://design.foreveryone.berlin)
 - **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind starter, linting and tests preconfigured
 - **[marcop135/vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint)** - Vite vanilla JS + Dart Sass starter, linting and tests preconfigured
-- **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - modern, cross-browser CSS framework with three modes (classless, class-based, utility-first) and light, dark, and auto themes
+- **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - Modern, cross-browser CSS framework with three modes (classless, class-based, utility-first) and light, dark, and auto themes
 
 ## What I do
 
@@ -22,7 +22,7 @@ A few pages from my site, [**marcopontili.com**](https://marcopontili.com/explor
 
 <table>
   <tr>
-    <td><a href="https://marcopontili.com/uses">/uses</a><br>tools I work with daily</td>
+    <td><a href="https://marcopontili.com/uses">/uses</a><br>tools I use</td>
     <td><a href="https://marcopontili.com/blogroll">/blogroll</a><br>blogs I read</td>
   </tr>
   <tr>
