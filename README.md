@@ -9,6 +9,7 @@
 - **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind starter with linting and tests
 - **[marcop135/vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint)** - Vite vanilla JS + Sass starter with linting and tests
 - **[marcop135/md2pdf](https://github.com/marcop135/md2pdf)** - React + Vite PWA for Markdown to PDF, in-browser and offline
+- **[marcop135/dotfiles-core](https://github.com/marcop135/dotfiles-core)** - Cross-platform dotfiles: one shared shell layer, symlinked into place
 
 ## What I do
 
