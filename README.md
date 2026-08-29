@@ -5,6 +5,7 @@
 ## Open source
 
 - **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - Semantic-first CSS framework (PostCSS): classless or class-based, light/dark themes
+- **[marcop135/dotfiles-public](https://github.com/marcop135/dotfiles-public)** - Cross-platform dotfiles (macOS, Windows, WSL): one shared shell layer, symlinked into place
 - **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - Shared design tokens, components, and patterns, with a [Next.js site](https://design.foreveryone.berlin)
 - **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind starter with linting and tests
 - **[marcop135/vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint)** - Vite vanilla JS + Sass starter with linting and tests
