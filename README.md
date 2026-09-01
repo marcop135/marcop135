@@ -1,6 +1,6 @@
 # Hi, I'm Marco ☕️🎨✨
 
-> Website Developer in Munich. I own and ship marketing websites end to end. I open-source the tools I build along the way.
+> Website Developer based in Munich, Germany. I own and ship marketing websites end to end. I also open-source the tools I build along the way.
 
 ## Open source
 
@@ -17,7 +17,7 @@
 
 ## Volunteering
 
-- **[ForEveryone Berlin](https://www.linkedin.com/company/foreveryoneberlin/)** - Web Lead for a [WP site](https://foreveryone.berlin) and an open-source [design system](https://github.com/Foreveryone-berlin/design-system)
+- **[ForEveryone Berlin](https://www.linkedin.com/company/foreveryoneberlin/)**: Web Lead overseeing the [website](https://foreveryone.berlin) and [design system](https://github.com/Foreveryone-berlin/design-system).
 - **[ReDi School Munich](https://www.linkedin.com/school/redi-school-of-digital-integration)** - Code Instructor for the [ICDD foundation course](https://www.redi-school.org/foundation-courses/munich/dcp/introduction-to-computer-science)
 
 ## Explore more
