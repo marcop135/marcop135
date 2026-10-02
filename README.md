@@ -11,8 +11,8 @@
 - **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - Semantic (Post)CSS framework: class-based/classless, light/dark, agent-skills
 - **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - Open design system, agent-ready, [Next.js](https://design.foreveryone.berlin) docs site
 - **[marcop135/wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** - Reproducible local WordPress harness for coding agents
-- **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind starter with linting and tests
-- **[marcop135/md2pdf](https://github.com/marcop135/md2pdf)** - React + Vite PWA for Markdown to PDF, in-browser and offline
+- **[marcop135/md2pdf](https://github.com/marcop135/md2pdf)** - React + Vite PWA for Markdown to PDF, in-browser, [live app](https://md2pdf.marcopontili.com)
+- **[marcop135/draw](https://github.com/marcop135/draw)** - Excalidraw whiteboard plus LaTeX math, Markdown notes and PDF export, [live app](https://draw.marcopontili.com)
 - **[marcop135/dotfiles-core](https://github.com/marcop135/dotfiles-core)** - Cross-platform dotfiles: one shared shell layer, symlinked into place
 
 ## Volunteering
