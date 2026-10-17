@@ -29,13 +29,13 @@ A few pages from my site, [marcopontili.com](https://marcopontili.com/explore).
 | Page                                               | What it is           |
 | -------------------------------------------------- | -------------------- |
 | [/uses](https://marcopontili.com/uses)             | Tools I use          |
-| [/blogroll](https://marcopontili.com/blogroll)     | Blogs I read         |
 | [/colophon](https://marcopontili.com/colophon)     | How I built the site |
+| [/styleguide](https://marcopontili.com/styleguide) | How I design         |
+| [/blogroll](https://marcopontili.com/blogroll)     | Blogs I read         |
 | [/now](https://marcopontili.com/now)               | What I'm focused on  |
 | [/where](https://marcopontili.com/where)           | Where I'm based      |
 | [/reading](https://marcopontili.com/reading)       | What I'm reading     |
 | [/quotes](https://marcopontili.com/quotes)         | Quotes I keep        |
-| [/styleguide](https://marcopontili.com/styleguide) | How I design         |
 
 ## Socials
 
