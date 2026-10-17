@@ -11,10 +11,10 @@
 - **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - Semantic CSS/PostCSS framework: class-based or classless, light and dark themes
 - **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - Shared design tokens and UI components for WordPress and Next.js
 - **[marcop135/next-storyblok](https://github.com/marcop135/next-storyblok)** - Next.js + Storyblok marketing site: reusable content blocks, live editing, multilingual routes
-- **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind CSS starter with linting, Vitest, and CI
 - **[marcop135/md2pdf](https://github.com/marcop135/md2pdf)** - React Markdown-to-PDF app with Mermaid diagrams; works offline in your browser
 - **[marcop135/whiteboard](https://github.com/marcop135/whiteboard)** - Excalidraw whiteboard with LaTeX math, Markdown notes, and PDF export
 - **[marcop135/wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** - Local WordPress development sandbox for coding agents: Docker, MCP, Abilities API
+- **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind CSS starter with linting, Vitest, and CI
 - **[marcop135/dotfiles-core](https://github.com/marcop135/dotfiles-core)** - Cross-platform dotfiles for macOS, Windows, and WSL: shared shell configuration
 
 ## Volunteering
