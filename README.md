@@ -4,11 +4,11 @@
 
 ## What I do
 
-- **[Marco Pontili Web](https://marcopontili.com)** - Consultancy: SMB marketing sites end to end (WordPress, headless CMS, Next.js, Tailwind landings, dashboards, agentic delivery)
+- **[Marco Pontili Web](https://marcopontili.com)** - Website consultancy: building, managing, and scaling marketing sites (WordPress, headless CMS, Next.js, Tailwind landing pages) - [Portfolio](https://marcopontili.com/projects)
 - **[ForEveryone Berlin](https://www.linkedin.com/company/foreveryoneberlin/)** - Web Team Lead overseeing the [website](https://foreveryone.berlin) and [design system](https://github.com/Foreveryone-berlin/design-system)
 - **[ReDi School Munich](https://www.linkedin.com/school/redi-school-of-digital-integration)** - Frontend Code Instructor for the [ICDD foundation course](https://www.redi-school.org/foundation-courses/munich/dcp/introduction-to-computer-science)
 
-## Open source
+## What I open source
 
 CMS and websites
 
