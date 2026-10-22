@@ -12,7 +12,7 @@
 
 CMS and websites
 
-- **[marcop135/next-storyblok](https://github.com/marcop135/next-storyblok)** - Next.js + Storyblok marketing site: reusable content blocks, live editing, multilingual routes
+- **[marcop135/nextstory](https://github.com/marcop135/nextstory)** - Next.js + Storyblok marketing site: reusable content blocks, live editing, multilingual routes
 - **[marcop135/wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** - Local WordPress development sandbox for coding agents: Docker, MCP, Abilities API
 
 Web apps
