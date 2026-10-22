@@ -4,7 +4,7 @@
 
 ## What I do
 
-- **[Marco Pontili Web](https://marcopontili.com)** - Website consultancy: building, managing, and scaling marketing sites (WordPress, headless CMS, Next.js, Tailwind landing pages) - [Portfolio](https://marcopontili.com/projects)
+- **[Marco Pontili Web](https://marcopontili.com)** - Website consultancy: building, managing, and scaling marketing sites (WordPress, headless CMS, Next.js, Tailwind landing pages)
 - **[ForEveryone Berlin](https://www.linkedin.com/company/foreveryoneberlin/)** - Web Team Lead overseeing the [website](https://foreveryone.berlin) and [design system](https://github.com/Foreveryone-berlin/design-system)
 - **[ReDi School Munich](https://www.linkedin.com/school/redi-school-of-digital-integration)** - Frontend Code Instructor for the [ICDD foundation course](https://www.redi-school.org/foundation-courses/munich/dcp/introduction-to-computer-science)
 
@@ -12,7 +12,7 @@
 
 CMS and websites
 
-- **[marcop135/nextstory](https://github.com/marcop135/nextstory)** - Next.js + Storyblok marketing site: reusable content blocks, live editing, multilingual routes
+- **[marcop135/nextstory](https://github.com/marcop135/nextstory)** - Headless CMS demo with Next.js and Storyblok: draft preview, German routes, cache invalidation, agent access
 - **[marcop135/wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** - Local WordPress development sandbox for coding agents: Docker, MCP, Abilities API
 
 Web apps
