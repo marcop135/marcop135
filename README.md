@@ -23,11 +23,11 @@ Web apps
 UI and design systems
 
 - **[marcop135/bullframe.css](https://github.com/marcop135/bullframe.css)** - Semantic CSS/PostCSS framework: class-based or classless, light and dark themes
-- **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - Shared design tokens and UI components for WordPress and Next.js
+- **[Foreveryone-berlin/design-system](https://github.com/Foreveryone-berlin/design-system)** - ForEveryone's design system: shared tokens, components, and patterns for website and app
 
 Starters and dev tooling
 
-- **[marcop135/vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint)** - Vite + React + Tailwind CSS starter with linting, Vitest, and CI
+- **[marcop135/revitail](https://github.com/marcop135/revitail)** - React, Vite and Tailwind starter with linting, Vitest, and CI
 - **[marcop135/dotfiles-core](https://github.com/marcop135/dotfiles-core)** - Cross-platform dotfiles for macOS, Windows, and WSL: shared shell configuration
 
 ## Explore more
