@@ -4,7 +4,7 @@
 
 ## What I do
 
-- **[Marco Pontili Web](https://marcopontili.com)** - Website consultancy: building, managing, and scaling marketing sites (WordPress, headless CMS, Next.js, Tailwind landing pages)
+- **[Marco Pontili Web](https://marcopontili.com)** - Website consultancy: building, managing, and scaling marketing sites (WordPress, headless CMS, Next.js, Tailwind landings, tooling)
 - **[ForEveryone Berlin](https://www.linkedin.com/company/foreveryoneberlin/)** - Web Team Lead overseeing the [website](https://foreveryone.berlin) and [design system](https://github.com/Foreveryone-berlin/design-system)
 - **[ReDi School Munich](https://www.linkedin.com/school/redi-school-of-digital-integration)** - Frontend Code Instructor for the [ICDD foundation course](https://www.redi-school.org/foundation-courses/munich/dcp/introduction-to-computer-science)
 
@@ -45,6 +45,10 @@ A few pages from my site, [marcopontili.com](https://marcopontili.com/explore).
 | [/reading](https://marcopontili.com/reading)       | What I'm reading     |
 | [/quotes](https://marcopontili.com/quotes)         | Quotes I keep        |
 
-## Socials
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/marcop135) · [CodePen](https://codepen.io/marcop135)
+
+## Say Hello
+
+[marcopontili.com/contact](https://marcopontili.com/contact)
