@@ -13,6 +13,7 @@
 CMS and websites
 
 - **[marcop135/nextstory](https://github.com/marcop135/nextstory)** - Headless CMS demo with Next.js and Storyblok: server-rendered blocks, draft preview, agent access
+- **[marcop135/nextfold](https://github.com/marcop135/nextfold)** - Headless CMS demo with Next.js and Sanity: typed sections, Studio guardrails, tag-based caching
 - **[marcop135/wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** - Local WordPress development sandbox for coding agents: Docker, MCP, Abilities API
 
 Web apps
